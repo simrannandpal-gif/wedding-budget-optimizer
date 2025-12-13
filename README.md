@@ -1,10 +1,20 @@
 # Wedding Budget Optimizer 💍
 
+HEAD
 A Streamlit app that helps couples decide how to spend their wedding budget and where to cut costs when money is tight.
 
 Instead of cutting randomly, the app protects high-value memories like photography, and reduces spending on lower-impact categories such as decor or DJ first.
 
 
+
+# Wedding Budget Optimizer 💍
+
+This project is a Wedding Budget Optimizer that helps couples decide how to spend their wedding budget and where to cut costs when money is tight.
+
+Instead of cutting randomly, the app protects high-value memories like photography and makeup, and reduces spending on lower-impact categories such as decor or DJ first.
+
+---
+ 3bb8efa (Add project README explanation)
 
 ## What Problem Does This Solve?
 
@@ -17,7 +27,11 @@ When couples reduce their budget, they often don’t know:
 
 This app solves that problem by automatically suggesting the best spending plan within a given budget.
 
+HEAD
 
+
+---
+ 3bb8efa (Add project README explanation)
 
 ## How the App Works (Simple Explanation)
 
@@ -35,6 +49,7 @@ This app solves that problem by automatically suggesting the best spending plan 
    - Keeps total spending within budget
    - Cuts lower-priority items first when needed
 
+HEAD
 
 
 ## Example Insight
@@ -43,11 +58,24 @@ When the budget was reduced from **$40,000** to **$38,000**:
 - **Decor** was downgraded from **Mid ($4,000)** to **Budget ($2,500)**
 - **Photography** stayed **Luxury ($4,500)** because memories last forever
 
+---
+
+## Example Insight
+
+When the budget was reduced from $40,000 to $38,000:
+- Decor was downgraded from **Mid ($4,000)** to **Budget ($2,500)**
+- Photography stayed **Luxury ($4,500)** because memories last forever
+
+This shows how the app makes smart, explainable decisions.
+
+---
+ 3bb8efa (Add project README explanation)
 
 ## Technologies Used
 
 - Python
 - Pandas
+HEAD
 - Linear Optimization (Gurobi)
 - Streamlit (interactive web app)
 
@@ -62,6 +90,12 @@ When the budget was reduced from **$40,000** to **$38,000**:
 - `requirements.txt` — dependencies
 
 
+
+- Linear Optimization
+- Streamlit (for interactive web app)
+
+---
+ 3bb8efa (Add project README explanation)
 
 ## How to Run the App
 
