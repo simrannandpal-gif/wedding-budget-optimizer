@@ -1,4 +1,6 @@
 # Wedding Budget Optimizer 💍
+## Live App
+https://wedding-budget-optimizer-simran.streamlit.app
 
 A Streamlit app that helps couples decide how to spend their wedding budget and where to cut costs when money is tight.
 
