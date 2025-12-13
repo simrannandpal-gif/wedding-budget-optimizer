@@ -1,0 +1,31 @@
+category,package,cost,quality
+Venue,Budget,8000,6
+Venue,Mid,12000,8
+Venue,Luxury,16000,10
+Catering,Budget,10000,6
+Catering,Mid,14000,8
+Catering,Luxury,18000,10
+Photography,Budget,1800,6
+Photography,Mid,3000,8
+Photography,Luxury,4500,10
+Decor,Budget,2500,6
+Decor,Mid,4000,8
+Decor,Luxury,6500,10
+Outfit,Budget,1500,6
+Outfit,Mid,2500,8
+Outfit,Luxury,4000,10
+Makeup,Budget,500,6
+Makeup,Mid,900,8
+Makeup,Luxury,1500,10
+Music / DJ,Budget,1200,6
+Music / DJ,Mid,2000,8
+Music / DJ,Luxury,3500,10
+Invitations,Budget,300,6
+Invitations,Mid,600,8
+Invitations,Luxury,1200,10
+Cake,Budget,300,6
+Cake,Mid,600,8
+Cake,Luxury,1200,10
+Transportation,Budget,600,6
+Transportation,Mid,1200,8
+Transportation,Luxury,2500,10
