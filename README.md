@@ -2,7 +2,7 @@
 
 A Streamlit app that helps couples decide how to spend their wedding budget and where to cut costs when money is tight.
 
-Instead of cutting randomly, the app protects high-value memories (like photography and makeup) and reduces spending on lower-impact categories (like decor or DJ) first.
+Instead of cutting randomly, the app protects high-value memories like photography and makeup, and reduces spending on lower-impact categories such as decor or DJ first.
 
 ---
 
@@ -43,8 +43,6 @@ When the budget was reduced from **$40,000** to **$38,000**:
 - **Decor** was downgraded from **Mid ($4,000)** to **Budget ($2,500)**
 - **Photography** stayed **Luxury ($4,500)** because memories last forever
 
-This shows how the app makes smart, explainable decisions.
-
 ---
 
 ## Technologies Used
@@ -58,11 +56,11 @@ This shows how the app makes smart, explainable decisions.
 
 ## Project Files
 
-- `app.py` — Streamlit UI
-- `optimizer.py` — optimization model + logic
-- `categories.csv` — category weights (importance)
-- `packages.csv` — package options (Budget/Mid/Luxury) with cost + quality
-- `requirements.txt` — dependencies
+- `app.py` — Streamlit UI  
+- `optimizer.py` — optimization logic  
+- `categories.csv` — category importance  
+- `packages.csv` — cost & quality options  
+- `requirements.txt` — dependencies  
 
 ---
 
