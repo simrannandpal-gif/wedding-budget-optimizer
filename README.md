@@ -1,6 +1,17 @@
 # Wedding Budget Optimizer 💍
-## Live App
+## 🌐 Live Interactive App
+
+You can explore the Wedding Budget Optimizer using the live Streamlit app below:
+
+👉 **Live Demo:**  
 https://wedding-budget-optimizer-simran.streamlit.app/
+
+**What you can try in the app:**
+- Adjust the total wedding budget
+- See how spending changes across categories
+- Observe how high-impact items like photography are protected
+- Understand where cost cuts cause the least regret
+
 
 A Streamlit app that helps couples decide how to spend their wedding budget and where to cut costs when money is tight.
 
